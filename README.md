@@ -1,4 +1,4 @@
-<h1> Myfirst project that I used tailwind and react </h1>
+<h1> My first project that I used tailwind and react </h1>
 <h3>I used Tailwind first time and it was a good experience I am planning to use it for my upcoming projects</h3>
 <img src="https://github.com/ahmetyapar/react-tailwind-first-project/assets/109108488/6a478015-0b90-487c-8911-005bc83ab8a3">
 <img src="https://github.com/ahmetyapar/react-tailwind-first-project/assets/109108488/450eaa60-b079-4294-a18c-0ca4b9f1df9b">
